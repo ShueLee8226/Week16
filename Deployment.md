@@ -21,6 +21,6 @@ and paste under the list of (<li><a hre="...)
 7.while in the html path create your team file with .html 
 (name have to be the same what you put in the index.html)
 
-8.complete deploy now just edited your team file.html and [ut what you want in there
+8.Deploy complete, now just edited your team file.html and [ut what you want in there
 ```
 [Link to help start html file](https://www.w3schools.com/html/default.asp)
